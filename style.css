@@ -84,7 +84,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #000000;
+		background: #efefef;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2612,7 +2612,7 @@ input, select, textarea {
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 35%;
+		width: 20%;
 	}
 
 		#header > * {
